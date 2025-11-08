@@ -1,0 +1,2 @@
+# jurnal-kodingx
+jurnal koding
