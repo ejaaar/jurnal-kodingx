@@ -92,6 +92,9 @@ let siswa = ['aksa', 'dapeng', 'galih', 'galang']
 siswa.sort()
 console.log(siswa);
 
+let huruf = ['d', 'a', 'c', 'b','e','b','A','cc','ca', '9']
+huruf.sort()
+console.log(huruf);
 
 let dataNumber = [1,12,13,3,21,20,5,6,80]
 dataNumber.sort()
