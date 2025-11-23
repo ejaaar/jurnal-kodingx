@@ -16,7 +16,7 @@ let bool = true; // Boolean
 let undef; // Undefined
 let nul = null; // Null
 let sym = Symbol(""); // Symbol
-let bigInt = 9007199254740991n; // BigInt
+let bigInt = 900719925440991n; // BigInt
 
 console.log("Tipe data Number: " + typeof num);
 console.log("Tipe data String: " + typeof str);
@@ -36,7 +36,11 @@ console.log('');
 // 3. Function
 
 // contoh tipe data modern:
-let obj = {name: "John", age: 30}; // Object
+let obj = {
+    nama : "arbi",
+    umur : 20,
+    kelas : 11
+}
 
 let arr = [1, 2, 3, 4, 5]; // Array
 
@@ -46,4 +50,4 @@ let funct = function name() {
 
 console.log("Tipe data Object: " + typeof obj);
 console.log("Tipe data Array: " + typeof arr);
-console.log("Tipe data Function: " + typeof func);
+console.log("Tipe data Function: " + typeof funct);
